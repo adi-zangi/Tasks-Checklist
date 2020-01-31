@@ -2,7 +2,9 @@
 Tasks Checklist is an Android application that is used to add tasks to a checklist.
 
 ## Features
-This app is a utility for keeping track of tasks. Tasks can be added with a deadline and it keeps them sorted by deadline. Tasks can be marked when they are done and marked tasks can be deleted. The app also enables to undo the last action.
+This app is a utility for keeping track of tasks. Tasks can be added with a deadline and it keeps them sorted by deadline. Tasks can be marked when they are done and marked tasks can be deleted. The app also enables to undo the last action. <br />
+To add a task, fill in the task and click the Add button: <br />
+![Screenshot](add_task.png)
 
 ## Collaborators
 Design and code: Adi Zangi <br />
