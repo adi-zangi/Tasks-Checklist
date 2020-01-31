@@ -5,11 +5,11 @@ Tasks Checklist is an Android application that is used to add tasks to a checkli
 This app is a utility for keeping track of tasks. Tasks can be added with a deadline and it keeps them sorted by deadline. Tasks can be marked when they are done and marked tasks can be deleted. The app also enables to undo the last action. <br />
 
 To add a task, fill in the task and click the Add button: <br />
-<img src="/screenshots/add_task.png?raw=true" width="100" height="200" /> <br />
-This will open a date picker. Pick the deadline for the task. <br />
-<img src="/screenshots/pick_task_deadline.png?raw=true" width="100" height="200" /> <br />
+<img src="/screenshots/add_task.png?raw=true" width="200" height="400" /> <br />
+This will open a date picker. Pick the deadline for the task: <br />
+<img src="/screenshots/pick_task_deadline.png?raw=true" width="200" height="400" /> <br />
 To mark the task as done, select the checkbox: <br />
-<img src="/screenshots/mark_task_done.png?raw=true" width="100" height="200" />
+<img src="/screenshots/mark_task_done.png?raw=true" width="200" height="400" />
 
 ## Collaborators
 Design and code: Adi Zangi <br />
