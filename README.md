@@ -19,7 +19,6 @@ To mark the task as done, select the checkbox: <br />
 
 ## Collaborators
 Design and code: Adi Zangi <br />
-Guidance and help: Eyal Zangi
 
 ## Project Status
 The project is complete and includes tests.
